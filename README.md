@@ -11,9 +11,6 @@
 
 Welcome to our RoBERTa Sentiment Analysis project! In this repository, we explore the world of Natural Language Processing (NLP) by fine-tuning a RoBERTa Transformer for sentiment analysis. 
 
-## Our Team
-
-Our team, consisting of BOUSSOU Walid, HINDA Abdeljebar, ASTIGHFAR Ismail, KAIS Zakaria, and AYAD Mounir, excited to share our journey with you.
 
 ## About RoBERTa
 
