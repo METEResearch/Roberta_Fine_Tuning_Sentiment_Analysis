@@ -61,9 +61,9 @@ Your feedback and contributions are invaluable! Feel free to open issues, submit
   4. Push to the branch (`git push origin feature/your-feature`).
   5. Open a pull request.
 
-- If you encounter any issues or have suggestions, please open an issue on the [Issues](https://github.com/ExploAi/Roberta_Fine_Tuning_Sentiment_Analysis/issues) page.
+- If you encounter any issues or have suggestions, please open an issue on the [Issues](https://github.com/METEResearch/Roberta_Fine_Tuning_Sentiment_Analysis/issues) page.
 
-- Contact me in [LinkedIn](https://www.linkedin.com/in/ExploAi) for questions.
+- Contact me in [LinkedIn](https://github.com/METEResearch) for questions.
 - ![PRs Welcome](https://img.shields.io/badge/🌐_PRs-Welcome-navy.svg?=for-the-badge) ![Ask me anything](https://img.shields.io/badge/❔_Ask%20me-anything-1abc9c.svg?=for-the-badge)  
 <br>
 
@@ -73,7 +73,7 @@ Thank you for exploring!
 <div align="center">
   
 ----------------------
-> >  <br/>  &copy; *by Explo* <br/>  <br/>
+> >  <br/>  &copy; *by METE Research* <br/>  <br/>
 > > ![Made with Love](https://img.shields.io/badge/❤️‍🔥_Made%20with-Love-red.svg)
 ----------------------
 
@@ -90,7 +90,7 @@ Thank you for exploring!
 
 <div align="center">
 
-[![Stargazers repo roster for @ExploAi/Roberta_Fine_Tuning_Sentiment_Analysis](http://reporoster.com/stars/dark/ExploAi/Roberta_Fine_Tuning_Sentiment_Analysis)](https://github.com/ExploAi/Roberta_Fine_Tuning_Sentiment_Analysis/stargazers)
+[![Stargazers repo roster for @METE Research/Roberta_Fine_Tuning_Sentiment_Analysis](http://reporoster.com/stars/dark/METEResearch/Roberta_Fine_Tuning_Sentiment_Analysis)](https://github.com/METEResearch/Roberta_Fine_Tuning_Sentiment_Analysis/stargazers)
 
 
 
@@ -100,14 +100,14 @@ Thank you for exploring!
 
 <div align="center" >
 
-[![Forkers repo roster for @ExploAi/Roberta_Fine_Tuning_Sentiment_Analysis](http://reporoster.com/forks/dark/ExploAi/Roberta_Fine_Tuning_Sentiment_Analysis)](https://github.com/ExploAi/Roberta_Fine_Tuning_Sentiment_Analysis/network/members)
+[![Forkers repo roster for @METE Research/Roberta_Fine_Tuning_Sentiment_Analysis](http://reporoster.com/forks/dark/METEResearch/Roberta_Fine_Tuning_Sentiment_Analysis)](https://github.com/METEResearch/Roberta_Fine_Tuning_Sentiment_Analysis/network/members)
 
 </div>
 
 ## Contributors
 
-<a href = "https://github.com/ExploAi">
-  <img src = "https://contrib.rocks/image?repo=ExploAi/Roberta_Fine_Tuning_Sentiment_Analysis"/>
+<a href = "https://github.com/METEResearch">
+  <img src = "https://contrib.rocks/image?repo=METEResearch/Roberta_Fine_Tuning_Sentiment_Analysis"/>
 </a>
 
 
@@ -116,30 +116,30 @@ Thank you for exploring!
 <div align="center">
 
 
-![GitHub last commit (by committer)](https://img.shields.io/github/last-commit/ExploAi/Roberta_Fine_Tuning_Sentiment_Analysis?style=social)
+![GitHub last commit (by committer)](https://img.shields.io/github/last-commit/METEResearch/Roberta_Fine_Tuning_Sentiment_Analysis?style=social)
 
 </div>
 <div align="center">
 
-![GitHub License](https://img.shields.io/github/license/ExploAi/Roberta_Fine_Tuning_Sentiment_Analysis?style=social)
+![GitHub License](https://img.shields.io/github/license/METEResearch/Roberta_Fine_Tuning_Sentiment_Analysis?style=social)
 
  <p align="center">
-<a href="https://www.buymeacoffee.com/ExploAi"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=☕&slug=ExploAi&button_colour=5F7FFF&font_colour=ffffff&font_family=Poppins&outline_colour=ffffff&coffee_colour=FFDF00" title="☕ This will motivate me to continue on creating more open source codes "/></a>
+<a href="https://www.buymeacoffee.com/METE Research"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=☕&slug=METE Research&button_colour=5F7FFF&font_colour=ffffff&font_family=Poppins&outline_colour=ffffff&coffee_colour=FFDF00" title="☕ This will motivate me to continue on creating more open source codes "/></a>
 </p>
 
 
 </div>
 
-<a href = "https://github.com/ExploAi">
-  <img src = "https://github.com/ExploAi/Python-GUI/blob/main/border.gif" width="100%"/>
+<a href = "https://github.com/METEResearch">
+  <img src = "https://github.com/METEResearch/Python-GUI/blob/main/border.gif" width="100%"/>
 </a>
 
-<a href = "https://github.com/ExploAi">
-  <img src = "https://github.com/ExploAi/Python-GUI/blob/main/ciber-coding.gif" width="100%"/>
+<a href = "https://github.com/METEResearch">
+  <img src = "https://github.com/METEResearch/Python-GUI/blob/main/ciber-coding.gif" width="100%"/>
 </a>
 
-<a href = "https://github.com/ExploAi">
-  <img src = "https://github.com/ExploAi/Python-GUI/blob/main/border.gif" width="100%"/>
+<a href = "https://github.com/METEResearch">
+  <img src = "https://github.com/METEResearch/Python-GUI/blob/main/border.gif" width="100%"/>
 </a>
 
 
